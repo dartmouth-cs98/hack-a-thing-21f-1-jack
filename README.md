@@ -5,6 +5,9 @@
 
 Using Unity for the first time in my life, I built a 2D video game stage with an animated Pikachu character. Using the arrow keys, the player can move Pikachu around the stage. The space bar makes Pikachu jump using a physics engine, and the j key triggers an attack animation. I learned many of the basic techniques in both C# and Unity from the tutorial, but tweaked many of the parameters, functions, and sprites in order to make the game my own.
 
+## Images 
+
+![alt text](https://github.com/[jack-mcgary]/[hack-a-thing-21f-1-jack]/blob/[main]/idle?raw=true)
 
 ## Who Did What?
 
