@@ -13,7 +13,7 @@ I did all of the work.
 
 ### What worked:
 
-I was very happy with the animation feel and 2D physics interactions. The movement and controls felt legitimate and reminded me of flash games I used to play growing up, like Super Smash Flash (from which the pikachu animation is pulled from). I loved remaking a nearly identical animation from scratch that resembled games that seemed so complex at the time. 
+I was very happy with the animation feel and 2D physics interactions. The movement and controls felt legitimate and reminded me of flash games I used to play growing up, like Super Smash Flash (from which the pikachu animation is pulled from). I loved remaking a nearly identical animation from scratch resembling games that seemed so complex at the time. 
 
 ### What didn't work: 
 
