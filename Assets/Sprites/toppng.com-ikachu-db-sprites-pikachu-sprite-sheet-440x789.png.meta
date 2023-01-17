@@ -1,0 +1,3171 @@
+fileFormatVersion: 2
+guid: 529c6e79d42914b479763c3a2a6ea910
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e5e3c914ac4d7495b5dbeafbbbf1f
+      internalID: -1963941676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 781
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf395083ebe7472e826edf2799000de
+      internalID: 2095553312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 781
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb7f93aed7542109aabd3b1657c0c4
+      internalID: 406825900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73442ae056314404387f2506169a080f
+      internalID: 1046645040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 781
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbf8c085f75476ca42e4d4b79f3494
+      internalID: 372641257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 781
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f03965793f564697a0e022c1c1ea4cc
+      internalID: 302362114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 781
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98742e456be7e4a3580b50a7ba44620a
+      internalID: -455992879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 781
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da50fe90aff5d4f75b0d396da5ce6ca2
+      internalID: 2045737952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df22005409d47cfbfbc6f3ae54e3e1
+      internalID: -1653616816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 781
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d6f9dd752347e8870afd9f8667d37
+      internalID: 1858113477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 781
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245de85bae474f10b5e1b1c4ef27017
+      internalID: -1811565488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 779
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc8ae88f2104f06a26d49e7731780c
+      internalID: -1698605215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 781
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2887cd5b11194f56bb234a0cc423b09
+      internalID: -1822379233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 779
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afad84c124a34a619ae1fb1d8157429
+      internalID: 1037987242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 779
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b8ff1bf672a49b49f09e0b37c416e1
+      internalID: 891924795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 781
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9737bf9f994398b05c4990a185fda
+      internalID: -760908359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 781
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79913563a2a41f6b0bb3c642eb2c66
+      internalID: -1489705730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 780
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d907b16ce2cd41d4b5bec5c4cacf738
+      internalID: 1988841521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 778
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09807b14f4e8349dfb2d71e594f99bbc
+      internalID: 1943718645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 780
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218eb467adfc414b81e5a8664b2d8f4
+      internalID: -188356778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 778
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec2c59bf6a44ad49c8985e6c2027c8
+      internalID: -359954936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 734
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588fd02dbf98b4ba3b3515d8ed3cd2c1
+      internalID: -202327917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 733
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7711100a544b8ca7ee38844fbab88
+      internalID: -144433191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 733
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c386300df4b04b389c9b24f8d6e322a
+      internalID: 1282588048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 733
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf0c89a01064d3a953b7f16397d8c0
+      internalID: 1147553163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 738
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210805e76081c4b2c9772d81a7a10e48
+      internalID: -2015592038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 553
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff961c78a875744a5b8ac59f952c75fa
+      internalID: 1351762441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 553
+        width: 32
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c351cb4f55998436db4d0c9c5bdca57e
+      internalID: 1771022317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 557
+        width: 46
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364abd0d3ddd4269b2716938bb5f8e8
+      internalID: 2127546357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de2908c5a9341f49d13d2c0a24dea0
+      internalID: -1078693550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 720
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64becdb46752041a096ea91774d5e66d
+      internalID: -823799505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 718
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d6a54b30664abeb0d354eb9f1d1e8
+      internalID: -644535751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 678
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211b3129532f4f7bab5341b1758f05d
+      internalID: 459369579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 676
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c095a9d2fa4d21864758774518523
+      internalID: 1394614618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 678
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9205bf359cb7f496bb584d8ce56dc2fe
+      internalID: 1369716981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 676
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813f88cdbd8546758072bd45d1f93f6
+      internalID: -1714190436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fc2085a44be4525b481d35d1fe2ca1
+      internalID: -1252183148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 660
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0721c2a6674326a6e95ba7cfcaea4
+      internalID: -1570564957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 658
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc808e918e34ceaadf2ef531e9f7fa
+      internalID: -466015938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 618
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5c10d8a5514a6f8d6a9c611244bcf
+      internalID: -325242386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 622
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc80106dc94475c8000bcfbea7c968
+      internalID: -1189821968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 620
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18b77c7121542549f5809166e95987
+      internalID: 666563154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 621
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b8efde9c10f4d76a72e708ee246e52
+      internalID: -1830804578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510fe24f7791341cfa6583107169d11e
+      internalID: 1711903386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 600
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd868877ac84d739a90676fbfb0840
+      internalID: -1179705380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 600
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d91acf4a0a04f8c86f41dc0f042819
+      internalID: 1287369181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 598
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3185ed728144bf993d0edeaeecc03
+      internalID: 2047140716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 600
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed55089987f3465e8f0ee4e38642805
+      internalID: -1772305097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 600
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bbec5bbfada4b9690079fb803f27ff
+      internalID: -789327774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 553
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ccba192af846c083327e969729db9
+      internalID: 1781137815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 553
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7a6df970da4809ae221c4add5a7e3
+      internalID: -1808749347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165590a0f5e75428b8a3ee7271e9a88b
+      internalID: -1904371814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 539
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc583125018e4a0ea743aff9affe95a
+      internalID: 852634954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042d8d73a0664c209c4879c977201a9
+      internalID: -1613952237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 539
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b450f7caaecf4ac7a219d592db11b3b
+      internalID: -1829200247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 539
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60c42c1dad64b60b1b8a29d6a918f8
+      internalID: -999151286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 539
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6570c3562f14512bc5df9084df2200
+      internalID: -1681202721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 539
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2879d767ffbb4cefb973d8c30a50138
+      internalID: 730539029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 485
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e97e2b916f444591d7bf008ee3ad1
+      internalID: -943845300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 495
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438d14f7752d341418146d4b2153a990
+      internalID: -155672244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 494
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c1ab4da58544942a2289f72bdbc216
+      internalID: 514400124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 328
+        width: 65
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578a9cc1223544c6b9926a935495a9f
+      internalID: 269791172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_62
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 512
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741d7bbccde34456bb4781c14db623e
+      internalID: 511319980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9072fd53b26844d8b2170fc410d3ad0
+      internalID: 1919276966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3bcc5c84254c588f7bdd6dd4efcc2
+      internalID: 845160983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 479
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6732954f86c8043378f445e4fed226d9
+      internalID: -2025741014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_66
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b42a3a8043a48c98125acff84a1ad3
+      internalID: 1886267314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 479
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f929f891aa545198177701bbede0d0
+      internalID: -2133258220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff31e6cf7da4c9aa75ee592ead12da
+      internalID: 1348294865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_69
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 448
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9801547c4e64044b5aa55d95ecff49
+      internalID: -30319863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 438
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30274c71fdc436ba316c7539eae23e
+      internalID: -347888068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 439
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e85328508248cf8ee1bec8adac8e2
+      internalID: 749110601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 438
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d33e063059204a44be0af7ae0a8be5d
+      internalID: -298855633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 439
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871624a6c81154abb85cc74e5ae1887c
+      internalID: 5921766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_74
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 384
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85200b6cdceb5483dbf3a3f096a6a11c
+      internalID: -1725400075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045d6599744f4edeb398f7c38561037
+      internalID: -1072341477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55646a37e097f4fca91a8c2ef4dd3586
+      internalID: 541437050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3912a4ec534448a17a587591d7cd5
+      internalID: -1064222862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9385f450784c2b9179e08b907fcc6
+      internalID: 1318590018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_79
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 420
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f41bb05d99b4fb584a229ee7ed87d1
+      internalID: -1718369041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 418
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0317b3255f84261bb23564c7945190
+      internalID: 1468832894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e53123411c34808bc02d559dba6a83
+      internalID: 188799113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134f64e300244cd8b8270e5b6a90356
+      internalID: -1399458577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fdab789b92470390b2c605fda2380
+      internalID: 1040322858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab5b9ef163a4a88af3fa5a3acbf0fe
+      internalID: 39590950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5e70dd37fa4c41938e22189d3f3ec
+      internalID: 2104779477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 418
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646d7dcd2632457983b1d092a89594a
+      internalID: -1365956097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 367
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8191fb5ffad3471790ab917727c7859
+      internalID: -1722514340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 374
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80a9c8fec0c44a40b5d583699a7b37b
+      internalID: 246480790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514fc22456eae401ca4ce4dd2c5edc3a
+      internalID: 1338002410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 374
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfd4ce2b9c14bbbbf0cae13e767230
+      internalID: 502365398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 328
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32fffc459d8e484d830003f753d3b6e
+      internalID: 185940596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2c9e2d251a4114b1f999cc7a0a714
+      internalID: -411942267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 355
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223d72a8367ca452aa2b2dbb682313da
+      internalID: -282731419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_94
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 355
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225f7b89f0af4f9eae71da46dc964fc
+      internalID: -157532137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 353
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7de9552f8441aeb4f69c52eacd75e
+      internalID: -1383267910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 305
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915c9c1ec780496f8b70559e5522ee7
+      internalID: 616388975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 305
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e0328604374013908b497ca7e5533
+      internalID: -1879119519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 313
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b72e0100bed45c5a5a7298158cddf6
+      internalID: -1722505880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 288
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c3ca7b4aeee469abbf7e305e9c56ee
+      internalID: -1472238307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_100
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64f2e263d28f4e94a1f6fa0fb2b37ea
+      internalID: -907754694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82e1647987142a5aeea9fed069fe05
+      internalID: -1054578300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 294
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7677a71e2c3443948944f01c6f1eef2
+      internalID: -777030236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 294
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0cbc39d82c74579813d6ef445b2f52
+      internalID: -1073751676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129b1d397cf84251b59aec15f6c511d
+      internalID: -600960986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 294
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d21b97170ba400f904a991e3b6370b
+      internalID: 621727434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a150571b3c414e9c50e5879eb4d6a
+      internalID: -1623245513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_107
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 294
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d831450ddf64c93a2e451c22ca8a2b
+      internalID: -1133691176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 27
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0054000e66f43a09358cf1b07fe5da
+      internalID: -1846237469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 247
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459fb94e8e2e4099a23cf0b514fea63
+      internalID: 2024605746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb87c409d4b04eb2888e828e794b013
+      internalID: -661166709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 248
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692769049a004c1691eb91d6e1381c9
+      internalID: 1377518706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_112
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a432d36c7e4c0d9a2828063630bef
+      internalID: 1042297752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 260
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f287e7ce8575490a81a04f72df5660a
+      internalID: 285156950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0441b16042f046958282fa304329ad8
+      internalID: -677119664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_115
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c2fc1c75e3448fdb242dcc61de7694
+      internalID: -843720906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_116
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 260
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8649afc44762440f4afab4f995ef779c
+      internalID: 2035011025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf8db6631854581a909116ac034417
+      internalID: -1206160785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990bcdbe9552f4349bd9fcd46d8b6375
+      internalID: -522016633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa8ff185dd04eedb055a1425c23fd7
+      internalID: 222323914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_120
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 235
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4456178374f1459f8fdf6b35afac148
+      internalID: 505271938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e22b4c3a506483da1113fe2f2c6f78
+      internalID: -1020577835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff35dff4f024cb0a4453aa2b9345b8
+      internalID: 440516113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 235
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465ca1efe2944a9f985e78b42626932
+      internalID: -1752811632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 237
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c0d25828c643c3b459e4848e34e89
+      internalID: -1190125446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb196b5920bbb4494a40578d4ef55e42
+      internalID: 901326049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_126
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 189
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883ae122c14024ce58cd4835e49312b5
+      internalID: -1930819933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_127
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafdf559b929240a6a2874e06736e238
+      internalID: -18903857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83e2492276b47dd871a717dcc06e99
+      internalID: 1053438354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 179
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9bc79582dc4c508e792e1bddc1233
+      internalID: 543641647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_130
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 162
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c442df5e431334225969194c80f4fe6c
+      internalID: 505588273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 152
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff302b7b9a4944964a9eea783f561b19
+      internalID: 1740229325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_132
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9da4c7b06dd4b908a4525b59249108
+      internalID: -1191934289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_133
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 190
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275f6787efac446a5985571add6a4b20
+      internalID: -1875795936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1861fe36284a1fa16a17d89a00e42
+      internalID: -2068214265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 200
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb041d58bd5f40cca5fa677f3463fb7
+      internalID: 1001039753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_136
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 200
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ffae6f2f66b4d84949ce7c58b27a3c
+      internalID: -83908001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_137
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 200
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ddfad1665e463ea04e7a4ca1fd37c
+      internalID: -2071034200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_0: -1963941676
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_36: -1252183148
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_125: 901326049
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_58: -943845300
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_7: 2045737952
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_45: 1287369181
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_14: 891924795
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_133: -1875795936
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_69: -30319863
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_117: -1206160785
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_108: -1846237469
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_137: -2071034200
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_134: -2068214265
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_104: -600960986
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_77: -1064222862
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_103: -1073751676
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_122: 440516113
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_62: 511319980
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_13: 1037987242
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_92: -411942267
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_11: -1698605215
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_25: -2015592038
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_89: 1338002410
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_48: -789327774
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_12: -1822379233
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_50: -1808749347
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_19: -188356778
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_76: 541437050
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_107: -1133691176
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_44: -1179705380
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_9: 1858113477
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_61: 269791172
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_66: 1886267314
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_129: 543641647
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_39: -325242386
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_85: 2104779477
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_111: 1377518706
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_30: -823799505
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_79: -1718369041
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_1: 2095553312
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_93: -282731419
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_81: 188799113
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_130: 505588273
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_24: 1147553163
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_15: -760908359
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_46: 2047140716
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_72: -298855633
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_16: -1489705730
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_114: -677119664
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_126: -1930819933
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_52: 852634954
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_68: 1348294865
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_75: -1072341477
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_118: -522016633
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_131: 1740229325
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_124: -1190125446
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_47: -1772305097
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_101: -1054578300
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_3: 1046645040
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_22: -144433191
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_38: -466015938
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_41: 666563154
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_71: 749110601
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_34: 1369716981
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_42: -1830804578
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_80: 1468832894
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_63: 1919276966
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_64: 845160983
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_57: 730539029
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_21: -202327917
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_54: -1829200247
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_6: -455992879
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_90: 502365398
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_121: -1020577835
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_37: -1570564957
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_109: 2024605746
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_120: 505271938
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_116: 2035011025
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_18: 1943718645
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_96: 616388975
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_91: 185940596
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_28: 2127546357
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_67: -2133258220
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_55: -999151286
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_95: -1383267910
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_65: -2025741014
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_23: 1282588048
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_29: -1078693550
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_106: -1623245513
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_35: -1714190436
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_94: -157532137
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_32: 459369579
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_53: -1613952237
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_2: 406825900
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_56: -1681202721
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_105: 621727434
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_70: -347888068
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_135: 1001039753
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_17: 1988841521
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_4: 372641257
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_59: -155672244
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_74: -1725400075
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_10: -1811565488
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_27: 1771022317
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_31: -644535751
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_82: -1399458577
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_83: 1040322858
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_100: -907754694
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_123: -1752811632
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_128: 1053438354
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_99: -1472238307
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_132: -1191934289
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_87: -1722514340
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_112: 1042297752
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_33: 1394614618
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_84: 39590950
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_115: -843720906
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_78: 1318590018
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_86: -1365956097
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_43: 1711903386
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_98: -1722505880
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_5: 302362114
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_73: 5921766
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_60: 514400124
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_119: 222323914
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_113: 285156950
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_136: -83908001
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_49: 1781137815
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_88: 246480790
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_51: -1904371814
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_110: -661166709
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_20: -359954936
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_8: -1653616816
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_97: -1879119519
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_26: 1351762441
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_127: -18903857
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_40: -1189821968
+      toppng.com-ikachu-db-sprites-pikachu-sprite-sheet-440x789_102: -777030236
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
