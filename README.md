@@ -23,9 +23,6 @@ Things took a lot longer than the tutorial made me believe. I had to constantly 
 
 Jack McGary
 
-Sprites from: https://toppng.com/free-image/ikachu-db-sprites-pikachu-sprite-sheet-PNG-free-PNG-Images_216266
-Tutorial and Sprites from: https://www.youtube.com/watch?v=gB1F9G0JXOo&t=15730s
-
 
 ## Acknowledgments
 
